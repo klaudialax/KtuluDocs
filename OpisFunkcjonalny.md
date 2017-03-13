@@ -2,7 +2,7 @@
 
 ## Cel:
 
-Stworzenie aplikacji mobilnej wspomagającej uczestników gry towarzyskiej Ktulu. Aplikacja ułatwi rozgrywkę, w szczególności tym, którzy spotykają się z mieszkańcami Bum-Bum Town po raz pierwszy. Pomoże także rozpowrzechnić tę grę, z ktorej wiele osób rezygnuje z powodu bardzo skomplikowanych zasad.
+Stworzenie aplikacji mobilnej wspomagającej uczestników gry towarzyskiej Ktulu. Aplikacja ułatwi rozgrywkę, w szczególności tym, którzy spotykają się z mieszkańcami Bum-Bum Town po raz pierwszy. Pomoże także rozpowszechnić tę grę, z ktorej wiele osób rezygnuje z powodu bardzo skomplikowanych zasad.
 
 ## Grupa docelowa:
 
