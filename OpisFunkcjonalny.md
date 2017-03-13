@@ -81,3 +81,6 @@ Od użytkowników aplikacja wymaga co najmniej jednego urządzenia mobilnego z a
     - Personalizacja interfejsu i wyświetlanych komunikatów ze wgledu na frakcję do której przynależy uczestnik
 
 - Automatyczny Manitou. Jeśli każdy gracz posiada własny telefon z aplikacją, możliwa jest gra bez Manitou. Wymaga to jednak ustalenia i zaimplementowania kilku protokołów, które nie są uwzględnione w oficjalnych zasadach Ktulu. Na przykład gracze muszą potrafić samemu rozpocząć głosowania na przeszukiwanie i wieszanie.
+
+## Wykluczenia:
+Nasza aplikacja na pewno nie będzie umożliwiała rozgrywki wirtualnej. Chcemy zachować najważniejsze wartości gier towarzystkich takich jak Ktulu czy Mafia, jakimi są między innymi integracja, wspólne spędzanie czasu, rozwijania umiejętności retorycznych.
