@@ -48,7 +48,7 @@ Od użytkowników aplikacja wymaga co najmniej jednego smartfona z aplikacją or
 
             - Pamięta ile razy Ufolom udało się wysłać sygnał.
 
-            - i t.p.
+            - itp.
 
         - *Dzień.* Dostępne są funkcje Pojedynek, Przeszukiwanie i Wieszanie. Każda z tych funkcji prowadzi Manitou przez odpowiedni proces, przypominając zasady i oznajmiając kiedy powinno zostać przeprowadzone głosowanie, oraz jak interpretować oddane głosy.
 
@@ -60,7 +60,7 @@ Od użytkowników aplikacja wymaga co najmniej jednego smartfona z aplikacją or
 
             - Jeśli Ufole nadały swój trzeci sygnał, ogłoszone jest ich zwycięstwo.
 
-            - i t.p.
+            - itp.
 
     - Efekty dźwiękowe. Gra będzie akompaniowana przez proste efekty dźwiękowe. Na przykład:
 
