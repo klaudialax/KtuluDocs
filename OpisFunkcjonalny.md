@@ -2,7 +2,7 @@
 
 ## Cel:
 
-Umożliwienie rozpowszechnienia gry towarzyskiej Ktulu, poprzez stworzenie aplikacji mobilnej, która ułatwi grę wszystkim graczom, w szczególności tym, którzy spotykają się z mieszkańcami Bum-Bum Town po raz pierwszy.
+Stworzenie aplikacji mobilnej wspomagającej uczestników gry towarzyskiej Ktulu. Aplikacja ułatwi rozgrywkę, w szczególności tym, którzy spotykają się z mieszkańcami Bum-Bum Town po raz pierwszy. Pomoże także rozpowszechnić tę grę, z ktorej wiele osób rezygnuje z powodu bardzo skomplikowanych zasad.
 
 ## Grupa docelowa:
 
@@ -10,9 +10,9 @@ Aplikacja jest przeznaczona zarówno dla zapalonych graczy Ktulu, którzy znają
 
 Początkujący gracz może czuć się przytłoczonym liczbą i złożonością reguł do Ktulu. Nawet w gronie osób, które grę znają i chętnie wytłumaczą te reguły, nowy gracz może czuć się zagubiony lub martwić się, że spowalnia rozgrywkę. Nasza aplikacja uprości i skróci proces opanowywania tych skomplikowanych zasad, pozwalając każdemu na dołączenie do rozgrywki Ktulu – w roli gracza, czy nawet Manitou.
 
-Weterani gry też skorzystają na aplikacji. Dostępność pod zasięgiem dłoni wszystkich reguł gry i zasad dotyczących poszczególnych kart ułatwi mieszkańcom strategizowanie, zaś Manitou nie będzie musiał polegać na zawodnej pamięci przy rozstrzyganiu poszczególnych kroków gry bądź sporów między graczami. Co więcej, rola Manitou, będąc najbardziej skomplikowaną rolą w rozgrywce Ktulu, będzie szczególnie wspomagana przez aplikację, kierując prowadzącego przez kolejne fazy dnia i nocy.
+Weterani gry też skorzystają na aplikacji. Dostępność pod zasięgiem dłoni wszystkich reguł gry i zasad dotyczących poszczególnych kart ułatwi mieszkańcom strategizowanie. Natomiast Manitou nie będzie musiał polegać na zawodnej pamięci przy rozstrzyganiu poszczególnych kroków gry bądź sporów między graczami. Co więcej, rola Manitou, będąc najbardziej skomplikowaną rolą w rozgrywce Ktulu, będzie szczególnie wspomagana przez aplikację, kierując prowadzącego przez kolejne fazy dnia i nocy.
 
-Od użytkowników aplikacja wymaga co najmniej jednego smartfona z aplikacją oraz kilku chętnych znajomych. Jeśli nie każdy gracz ma własny telefon z aplikacją, mogą się przydać wydrukowane karty do gry, ale nie są one konieczne.
+Od użytkowników aplikacja wymaga co najmniej jednego urządzenia mobilnego z aplikacją oraz kilku chętnych znajomych. Jeśli nie każdy gracz ma własny telefon z aplikacją, mogą się przydać wydrukowane karty do gry, ale nie są one konieczne.
 
 ## Funkcje:
 
@@ -77,5 +77,10 @@ Od użytkowników aplikacja wymaga co najmniej jednego smartfona z aplikacją or
     - Głosowanie i wybory. W przypadku tajnych głosowań i wyborów w nocy, gracz nie musi wskazywać na wybraną osobę, może do Manitou wysłać informację przez aplikację.
 
     - Przypomnienia. W trakcie dnia lub nocy, aplikacja przypomina graczowi jakie ma w danej chwili możliwości (za czym głosuje, czy może zacząć pojedynek, czy może odrzucić pojedynek), jaki jest jego cel oraz czy posiada posążek.
+    
+    - Personalizacja interfejsu i wyświetlanych komunikatów ze wgledu na frakcję do której przynależy uczestnik
 
-- Automatyczny Manitou. Jeśli każdy gracz posiada własny telefon z aplikacją, możliwa jest gra bez Manitou. Wymaga to jednak ustalenia i zaimplementowania kilku protokołów, które nie są uwzględnione w oficjalnych zasadach Ktulu. Na przykład gracze muszą potrafić samemu rozpocząć głosowania na przeszukiwanie i wieszanie oraz zarządzać niemoderowaną dyskusją.
+- Automatyczny Manitou. Jeśli każdy gracz posiada własny telefon z aplikacją, możliwa jest gra bez Manitou. Wymaga to jednak ustalenia i zaimplementowania kilku protokołów, które nie są uwzględnione w oficjalnych zasadach Ktulu. Na przykład gracze muszą potrafić samemu rozpocząć głosowania na przeszukiwanie i wieszanie.
+
+## Wykluczenia:
+Nasza aplikacja na pewno nie będzie umożliwiała rozgrywki wirtualnej. Chcemy zachować najważniejsze wartości gier towarzystkich takich jak Ktulu czy Mafia, jakimi są między innymi integracja, wspólne spędzanie czasu, rozwijania umiejętności retorycznych.
