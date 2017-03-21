@@ -8,13 +8,13 @@ Stworzenie aplikacji mobilnej wspomagającej uczestników gry towarzyskiej Ktulu
 
 Aplikacja jest przeznaczona zarówno dla zapalonych graczy Ktulu, którzy znają i kochają tę grę od lat, jak i tych, którzy z Ktulu nie mają doświadczenia, lecz słyszeli o dobrej zabawie jaką ta gra gwarantuje i chcieliby ją wypróbować w gronie znajomych.
 
-Początkujący gracz może czuć się przytłoczonym ilością i złożonością reguł do Ktulu. Nawet w gronie osób, które grę znają i chętnie wytłumaczą te reguły, nowy gracz może czuć się zagubiony lub martwić się, że spowalnia rozgrywkę. Nasza aplikacja uprości i skróci proces opanowywania tych skomplikowanych zasad, pozwalając każdemu na dołączenie do rozgrywki Ktulu – w roli gracza bądź Manitou.
+Początkujący gracz może czuć się przytłoczonym liczbą i złożonością reguł do Ktulu. Nawet w gronie osób, które grę znają i chętnie wytłumaczą te reguły, nowy gracz może czuć się zagubiony lub martwić się, że spowalnia rozgrywkę. Nasza aplikacja uprości i skróci proces opanowywania tych skomplikowanych zasad, pozwalając każdemu na dołączenie do rozgrywki Ktulu – w roli gracza, czy nawet Manitou.
 
 Weterani gry też skorzystają na aplikacji. Dostępność pod zasięgiem dłoni wszystkich reguł gry i zasad dotyczących poszczególnych kart ułatwi mieszkańcom strategizowanie. Natomiast Manitou nie będzie musiał polegać na zawodnej pamięci przy rozstrzyganiu poszczególnych kroków gry bądź sporów między graczami. Co więcej, rola Manitou, będąc najbardziej skomplikowaną rolą w rozgrywce Ktulu, będzie szczególnie wspomagana przez aplikację, kierując prowadzącego przez kolejne fazy dnia i nocy.
 
 Od użytkowników aplikacja wymaga co najmniej jednego urządzenia mobilnego z aplikacją oraz kilku chętnych znajomych. Jeśli nie każdy gracz ma własny telefon z aplikacją, mogą się przydać wydrukowane karty do gry, ale nie są one konieczne.
 
-## Funkcjonalność:
+## Funkcje:
 
 - *Tutorial wprowadzający podstawy rozgrywki dla mieszkańca.* Interaktywny tutorial przedstawi nowemu użytkownikowi aplikacji skrócony opis gry wraz z najważniejszymi zasadami oraz zaprezentuje elementy interfejsu użytkownika, wyjaśniając jak z nich korzystać.
 
@@ -26,7 +26,7 @@ Od użytkowników aplikacja wymaga co najmniej jednego urządzenia mobilnego z a
 
     - *Wybór kart.* Po wczytaniu liczby graczy, aplikacja informuje Manitou po ile kart z każdej frakcji należy wybrać. Manitou ma możliwość zmiany tego podziału przed wyborem kart. Następnie aplikacja proponuje losowy zbiór kart pasujący do wybranego podziału na frakcje. Manitou znowu może zaakceptować proponowane rozdanie, bądź dokonać dowolnych zmian. By karty rozdać, Manitou ma dwie możliwości – może rozdać fizyczne karty jeśli takie są dostępne, albo skorzystać z rozdawacza kart dostarczonego przez aplikację.
 
-        - *Rozdawacz kart* pozwala na przypisanie każdej osobie roli w grze. Pierwszy gracz dostaje telefon, na którym widzi guzik z napisem „Pokaż kartę”. Po naciśnięciu guzika, ujawnia się jego karta wraz z jej tekstem. Jest też guzik „Ukryj kartę”, który zastępuje ekran napisem „Przekaż telefon następnej osobie” i ponownie guzikiem z napisem „Pokaż kartę”. Gracze przekazują telefon od osoby do osoby póki każdy nie zobaczy swojej roli. Ostatni gracz, po przeczytaniu i ukryciu swojej karty, zobaczy napis „Oddaj telefon Manitou”.
+        - Wspomaganie rozdawania kart pozwala na przypisanie każdej osobie roli w grze. Pierwszy gracz dostaje telefon, na którym widzi guzik z napisem „Pokaż kartę”. Po naciśnięciu guzika, ujawnia się jego karta wraz z jej tekstem. Jest też guzik „Ukryj kartę”, który zastępuje ekran napisem „Przekaż telefon następnej osobie” i ponownie guzikiem z napisem „Pokaż kartę”. Gracze przekazują telefon od osoby do osoby póki każdy nie zobaczy swojej roli. Ostatni gracz, po przeczytaniu i ukryciu swojej karty, zobaczy napis „Oddaj telefon Manitou”.
 
         - Aplikacja będzie pamiętała kolejność rozdawania kart, dzięki czemu Manitou może zawsze sprawdzić który gracz ma jaką rolę, bez potrzeby pytania graczy.
 
@@ -48,7 +48,7 @@ Od użytkowników aplikacja wymaga co najmniej jednego urządzenia mobilnego z a
 
             - Pamięta ile razy Ufolom udało się wysłać sygnał.
 
-            - i t.p.
+            - itp.
 
         - *Dzień.* Dostępne są funkcje Pojedynek, Przeszukiwanie i Wieszanie. Każda z tych funkcji prowadzi Manitou przez odpowiedni proces, przypominając zasady i oznajmiając kiedy powinno zostać przeprowadzone głosowanie, oraz jak interpretować oddane głosy.
 
@@ -60,7 +60,7 @@ Od użytkowników aplikacja wymaga co najmniej jednego urządzenia mobilnego z a
 
             - Jeśli Ufole nadały swój trzeci sygnał, ogłoszone jest ich zwycięstwo.
 
-            - i t.p.
+            - itp.
 
     - Efekty dźwiękowe. Gra będzie akompaniowana przez proste efekty dźwiękowe. Na przykład:
 
@@ -70,9 +70,9 @@ Od użytkowników aplikacja wymaga co najmniej jednego urządzenia mobilnego z a
 
         - Dźwięki strzałów po zakończonym pojedynku.
 
-- Moduł dla gracza. Te funkcjonalności wymagają połączenia sieciowego z urządzeniem Manitou.
+- Moduł dla gracza. Te funkcje wymagają połączenia sieciowego z urządzeniem Manitou.
 
-    - Odbiór karty. Gracz nie musi dostać fizycznej karty, bądź korzystać z automatycznego rozdawacza kart dostępnego w module dla Manitou. Karta zostaje przesłana do gracza sieciowo i w każdej chwili gracz może sprawdzić jaką ma rolę.
+    - Odbiór karty. Gracz nie musi dostać fizycznej karty, bądź korzystać z automatycznego rozdawacza kart dostępnego w module dla Manitou. Karta zostaje przesłana do gracza sieciowo (lub zeskanowana kodem QR z ekranu urządzenia Manitou w początkowych wersjach) i w każdej chwili gracz może sprawdzić jaką ma rolę.
 
     - Głosowanie i wybory. W przypadku tajnych głosowań i wyborów w nocy, gracz nie musi wskazywać na wybraną osobę, może do Manitou wysłać informację przez aplikację.
 
